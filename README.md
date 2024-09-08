@@ -18,5 +18,7 @@ Ao inserir um termo no campo de pesquisa, a aplicação busca em uma base de dad
 * **Resultados relevantes:** A aplicação busca em uma base de dados pré-definida para fornecer resultados precisos e relevantes.
 * **Links para mais informações:** Os resultados da pesquisa incluem links para fontes externas, permitindo que os usuários aprofundem seus conhecimentos sobre o tema.
 
+## Veja meu projeto na Vercel
 
+* **<https://sentimentos-pi.vercel.app/>**
 
